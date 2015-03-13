@@ -1,5 +1,5 @@
 Fork of https://github.com/mahinder/rails_handsontable
-Updated handsontable version
+Updated handsontable version to 1.3.0
 Upstream dropped jquery in filenames, so no it's
 //= require handsontable.full
 instead of
