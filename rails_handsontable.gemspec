@@ -6,8 +6,8 @@ require 'rails_handsontable/version'
 Gem::Specification.new do |gem|
   gem.name          = "rails_handsontable"
   gem.version       = RailsHandsontable::VERSION
-  gem.authors       = ["mahinder"]
-  gem.email         = ["mahinder.kumar@trantorinc.com"]
+  gem.authors       = ["kostafun"]
+  gem.email         = ["kostafun@tutanota.de"]
   gem.description   = %q{hansontable wrap in gem}
   gem.summary       = %q{hansontable wrap in gem}
   gem.homepage      = ""
